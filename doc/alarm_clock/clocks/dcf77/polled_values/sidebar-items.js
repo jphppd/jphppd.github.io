@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["POLLED_SAMPLES_BYTES","POLLED_SAMPLES_BYTES_PER_S","POLLED_SAMPLES_HISTORY_S"],"fn":["count_ones"],"struct":["PolledValues"]};

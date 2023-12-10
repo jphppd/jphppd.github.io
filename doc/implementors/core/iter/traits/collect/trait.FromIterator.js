@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"ringbuffer":[["impl&lt;RB, const CAP: usize&gt; FromIterator&lt;RB&gt; for <a class=\"struct\" href=\"ringbuffer/struct.ConstGenericRingBuffer.html\" title=\"struct ringbuffer::ConstGenericRingBuffer\">ConstGenericRingBuffer</a>&lt;RB, CAP&gt;"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

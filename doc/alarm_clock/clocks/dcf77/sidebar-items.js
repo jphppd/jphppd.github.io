@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["POLLED_SAMPLES_FREQUENCY"],"enum":["WorkflowError"],"mod":["phase_detector","polled_values","protocol"],"struct":["Dcf77"]};

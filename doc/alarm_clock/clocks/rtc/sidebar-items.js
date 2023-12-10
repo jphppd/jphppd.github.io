@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["DEVICE_ADDRESS"],"enum":["Error","Hours","TempConvRate"],"fn":["decimal_to_packed_bcd","get_h24","hours_from_register","hours_to_register","is_24h_format","is_am","month_year_to_registers","packed_bcd_to_decimal"],"struct":["BitFlags","Register","Rtc"]};

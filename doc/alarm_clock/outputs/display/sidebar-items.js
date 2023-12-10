@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["DisplayIntensity","Symbols"],"struct":["ColumnMajorBuffer","DataLayoutColumnMajor","DataLayoutRowMajor","Display","FrameBuffer","Square"],"trait":["DataLayout"],"type":["DisplayInterface"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["MILLIS_INCREMENT","POLLED_SAMPLES_PERIOD_MS","PRESCALER","TIMER_COUNTS","TIMER_MAX"],"fn":["get_polled_values","get_timer","init"],"static":["TIMER"],"struct":["Timer","TimerPolling"]};

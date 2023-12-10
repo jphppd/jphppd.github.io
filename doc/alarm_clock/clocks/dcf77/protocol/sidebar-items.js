@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Dcf77SignalVariant","ProtocolError"],"fn":["bits_slice_to_u8","check_even_parity"],"struct":["Protocol","Signals"]};
